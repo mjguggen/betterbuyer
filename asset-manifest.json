@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/betterbuyer/static/css/main.75239a8b.chunk.css",
+    "main.js": "/betterbuyer/static/js/main.33a0920a.chunk.js",
+    "main.js.map": "/betterbuyer/static/js/main.33a0920a.chunk.js.map",
+    "runtime-main.js": "/betterbuyer/static/js/runtime-main.666e4b9a.js",
+    "runtime-main.js.map": "/betterbuyer/static/js/runtime-main.666e4b9a.js.map",
+    "static/js/2.ff5dcc60.chunk.js": "/betterbuyer/static/js/2.ff5dcc60.chunk.js",
+    "static/js/2.ff5dcc60.chunk.js.map": "/betterbuyer/static/js/2.ff5dcc60.chunk.js.map",
+    "static/js/3.fc1716a8.chunk.js": "/betterbuyer/static/js/3.fc1716a8.chunk.js",
+    "static/js/3.fc1716a8.chunk.js.map": "/betterbuyer/static/js/3.fc1716a8.chunk.js.map",
+    "index.html": "/betterbuyer/index.html",
+    "static/css/main.75239a8b.chunk.css.map": "/betterbuyer/static/css/main.75239a8b.chunk.css.map",
+    "static/js/2.ff5dcc60.chunk.js.LICENSE.txt": "/betterbuyer/static/js/2.ff5dcc60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.666e4b9a.js",
+    "static/js/2.ff5dcc60.chunk.js",
+    "static/css/main.75239a8b.chunk.css",
+    "static/js/main.33a0920a.chunk.js"
+  ]
+}
